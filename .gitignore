@@ -35,8 +35,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# images
-/public/images/site/mattias.jpg
-
 # env
 next.config.js
